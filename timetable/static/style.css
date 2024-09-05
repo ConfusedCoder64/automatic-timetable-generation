@@ -1,0 +1,8 @@
+/* td {
+    background: linear-gradient(to bottom left, lightgreen, lightgreen, rgba(255, 255, 255, 0.2), lightgreen, lightgreen) lightgreen;
+  }
+
+tr:nth-child(even) td:nth-child(even),
+tr:nth-child(odd) td:nth-child(odd) {
+background: linear-gradient(to bottom left, #FA8072, #FA8072, rgba(255, 255, 255, 0.2), #FA8072, #FA8072) #FA8072;
+} */
